@@ -1,0 +1,69 @@
+#==================================================================
+# OMERE 5.6.1.30196 - Solar protons fluence file
+#
+# File: C:\Users\giorg\Documents\OMERE 5.6\solarMeanProtons.fle
+# Creation: 13/01/2025 03:18:30
+#==================================================================
+
+# Model : ESP
+# Confidence level : 95
+# Period during solar activity : 3.33 year(s)
+
+#=========== Cutoff ===========
+# Cutoff model : Störmer
+# Magnetospheric cutoff : Vertical
+# Weather condition : Quiet
+# Earth shadow : YES
+
+
+# Confidence level = 95
+# Mission start = 2018
+# Lifetime : 5 years
+
+# == Orbit 1/1 ==
+# Orbit data :
+# Name :                                AEOLUS Orbit
+# Duration :                            5 year(s)
+# Perigee :                             320.000000km
+# Apogee :                              320.000000km
+# Inclination :                         97.000°
+# Argument of Perigee :                 0.000°
+# Longitude of Ascending node :         0.000°
+# (with respect to Greenwich)
+# True Anomaly :                        0.000°
+# Period :                              5455.596s
+# Number of orbits :                    100
+# Number of points per orbit :          100
+
+# Energy spectrum :
+#    Energy       Diff fluence  Integ fluence
+#       MeV        cm-2.MeV-1          cm-2  
+    1.0000        4.85091e+10    1.19635e+11
+    3.0000        1.56774e+10    6.15878e+10
+    5.0000        6.74380e+09    4.09931e+10
+    7.0000        3.99164e+09    3.04880e+10
+   10.0000        2.25148e+09    2.18255e+10
+   15.0000        1.10714e+09    1.38454e+10
+   20.0000        6.37024e+08    9.63247e+09
+   25.0000        4.04570e+08    7.08009e+09
+   30.0000        2.74411e+08    5.41554e+09
+   35.0000        1.94199e+08    4.25206e+09
+   40.0000        1.42844e+08    3.42500e+09
+   45.0000        1.07995e+08    2.79584e+09
+   50.0000        8.34632e+07    2.32768e+09
+   55.0000        6.58433e+07    1.94954e+09
+   60.0000        5.27082e+07    1.66167e+09
+   70.0000        3.51615e+07    1.22440e+09
+   80.0000        2.44298e+07    9.35358e+08
+   90.0000        1.74864e+07    7.23007e+08
+  100.0000        1.27258e+07    5.78195e+08
+  125.0000        6.40017e+06    3.49551e+08
+  150.0000        3.61498e+06    2.27812e+08
+  175.0000        2.18880e+06    1.57111e+08
+  200.0000        1.41196e+06    1.12775e+08
+  225.0000        9.53615e+05    8.37559e+07
+  250.0000        6.77335e+05    6.35140e+07
+  275.0000        4.90172e+05    4.91151e+07
+  300.0000        3.54264e+05    3.85596e+07
+
+
