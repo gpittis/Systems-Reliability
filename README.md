@@ -31,3 +31,14 @@ In our bibliographic study, we explored the following topics:
 
 This computational work focuses on the **AEOLUS satellite**, which is used for **weather prediction**. The study is conducted using **OMERE v4.0**, a radiation analysis and simulation software, to assess the satellite's exposure to space radiation and its impact on electronic components.  
 
+### Electronic Components Under Study  
+The following components were analyzed for radiation-induced failures:  
+1. **Flash Memory (Micron MT29F32G08ABAAA)**  
+   - Page program failure  
+   - Device loss of functionality  
+2. **Microcontroller (MSP430FR5969-SP)**  
+   - SEU error detected  
+   - Microcontroller reset due to SEFI
+3. **SRAM Memory (Atmel M65608E)**  
+   - Single Event Upset (SEU)  
+
