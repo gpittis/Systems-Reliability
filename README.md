@@ -54,3 +54,5 @@ The following components were analyzed for radiation-induced failures:
 - Dose and LET Calculation
 - SEE Analysis
 
+## Collaborator
+[Thanasis Tsarnadelis](https://github.com/tsarnadelis)
