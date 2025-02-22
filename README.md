@@ -2,6 +2,9 @@
 
 ## Bibliographic study : Life/Health estimation of Lithium Ion Batteries  
 
+![sony_first_lithium_ion_battery](https://github.com/user-attachments/assets/91ab0fb9-ff32-46ed-9bdf-a1071c5d3f51)
+
+
 In our bibliographic study, we explored the following topics:  
 
 - **Structure of lithium-ion batteries**  
@@ -28,6 +31,9 @@ In our bibliographic study, we explored the following topics:
 
  
 ## Computational Work : AEOLUS Satellite Analysis  
+
+![Aeolus](https://github.com/user-attachments/assets/e95f0afa-6ebf-4c2f-8099-c2c0685214b6)
+
 
 This computational work focuses on the **AEOLUS satellite**, which is used for **weather prediction**. The study is conducted using **OMERE v4.0**, a radiation analysis and simulation software, to assess the satellite's exposure to space radiation and its impact on electronic components.  
 
