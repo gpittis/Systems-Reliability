@@ -1,6 +1,6 @@
 # Systems Reliability Project 2024-25
 
-## Bibliographic study : Life/Health of Lithium-Ion Batteries  
+## Bibliographic study : Life/Health estimation of Lithium Ion Batteries  
 
 In our bibliographic study, we explored the following topics:  
 
