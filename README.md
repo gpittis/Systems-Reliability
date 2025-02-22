@@ -43,6 +43,7 @@ The following components were analyzed for radiation-induced failures:
    - Single Event Upset (SEU)
 
 ### Tasks 
+- Mission Definition
 - Space Environment Simulation
 - Dose and LET Calculation
 - SEE Analysis
