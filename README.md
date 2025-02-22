@@ -40,5 +40,10 @@ The following components were analyzed for radiation-induced failures:
    - SEU error detected  
    - Microcontroller reset due to SEFI
 3. **SRAM Memory (Atmel M65608E)**  
-   - Single Event Upset (SEU)  
+   - Single Event Upset (SEU)
+
+### Tasks 
+- Space Environment Simulation
+- Dose and LET Calculation
+- SEE Analysis
 
