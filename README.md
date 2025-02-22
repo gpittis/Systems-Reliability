@@ -27,7 +27,7 @@ In our bibliographic study, we explored the following topics:
   - Model-Based vs Data-Driven Approaches
 
  
-## Computational Work: AEOLUS Satellite Analysis  
+## Computational Work : AEOLUS Satellite Analysis  
 
 This computational work focuses on the **AEOLUS satellite**, which is used for **weather prediction**. The study is conducted using **OMERE v4.0**, a radiation analysis and simulation software, to assess the satellite's exposure to space radiation and its impact on electronic components.  
 
